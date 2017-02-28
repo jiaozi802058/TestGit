@@ -13,6 +13,9 @@ public class TestGit {
 		System.out.println("厉害了Word哥5");
 		System.out.println("hahahha");
 		System.out.println(11111);
+		System.out.println("厉害了Word哥6");
+		System.out.println("厉害了Word哥7");
+		System.out.println("厉害了Word哥8");
 	}
 
 }
